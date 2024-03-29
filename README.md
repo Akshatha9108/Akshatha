@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm AKSHATHA</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **AIML,PYTHON,Java**
+- 🌱 I’m currently learning **AIML,PYTHON,cloud computing**
+- I'm Jack of all trades, master of none
 
 - 📫 How to reach me **akshatha7011@gmail.com**
 
