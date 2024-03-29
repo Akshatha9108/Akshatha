@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **AIML,PYTHON,cloud computing**
-- I'm Jack of all trades, master of none
+- 🎃I'm Jack of all trades, master of none
 
 - 📫 How to reach me **akshatha7011@gmail.com**
 
